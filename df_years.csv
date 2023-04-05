@@ -1,0 +1,16 @@
+Country Name,Country Code,Indicator Name,2002,2004,2006,2008,2010
+Australia,AUS,"Electricity production from renewable sources, excluding hydroelectric (% of total)",0.878273183861236,1.12745549114205,2.45609662823824,3.2159063326655,3.26774879181163
+Australia,AUS,Renewable electricity output (% of total electricity output),7.86091882240146,8.1866501908305,9.2993077726263,8.11525755637195,8.61187962842023
+Australia,AUS,Access to electricity (% of population),100.0,100.0,100.0,100.0,100.0
+China,CHN,"Electricity production from renewable sources, excluding hydroelectric (% of total)",0.209592277428357,0.178624752779893,0.387166018714885,0.859573400323317,1.67385240269475
+China,CHN,Renewable electricity output (% of total electricity output),17.6186278990475,16.2232664186372,15.5927834152258,17.7374440648538,18.6228260527723
+China,CHN,Access to electricity (% of population),97.5162048339844,97.9896697998047,98.461051940918,98.9505767822266,99.6999969482422
+United Kingdom,GBR,"Electricity production from renewable sources, excluding hydroelectric (% of total)",1.6484873698306,2.37529326974683,3.43466436214829,4.34113764519398,5.87088285184344
+United Kingdom,GBR,Renewable electricity output (% of total electricity output),2.89317333818692,3.61303216638809,4.60208931703226,5.67705220486968,6.81281342640788
+United Kingdom,GBR,Access to electricity (% of population),100.0,100.0,100.0,100.0,100.0
+India,IND,"Electricity production from renewable sources, excluding hydroelectric (% of total)",0.848154469600427,1.24957784532253,1.98414544627441,2.74165885743586,3.47809306770565
+India,IND,Renewable electricity output (% of total electricity output),12.0551611624532,14.4825005007376,17.5404247180092,16.5098337370558,16.0437444354595
+India,IND,Access to electricity (% of population),62.2999992370605,64.4000015258789,67.9000015258789,72.8993835449219,76.3000030517578
+South Africa,ZAF,"Electricity production from renewable sources, excluding hydroelectric (% of total)",0.118500759502937,0.113725978499979,0.112417331403901,0.117016738481287,0.124684392631152
+South Africa,ZAF,Renewable electricity output (% of total electricity output),1.20879925330796,0.508031378408666,1.26768480093761,0.587823214712017,0.948380661450703
+South Africa,ZAF,Access to electricity (% of population),76.6999969482422,80.9000015258789,80.6999969482422,81.9000015258789,82.9000015258789
